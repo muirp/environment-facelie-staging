@@ -13,7 +13,7 @@ expose:
   - --v
   - 4
   config:
-    domain: 104.199.13.177.nip.io
+    domain: pmuir-ext.jenkins-x.rocks
     exposer: Ingress
     http: "true"
 jenkins:
